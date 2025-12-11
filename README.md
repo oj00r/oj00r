@@ -13,7 +13,7 @@
   - [Modding My 3D Printer](https://github.com/oj00r)
   
 - <b>Bachelor Thesis</b>
-  - [(ENG)Postprocessing of 3D Titanium Printouts](https://github.com/oj00r/Postprocessing_3D_printouts)
+  - [(ENG) Postprocessing of 3D Titanium Printouts](https://github.com/oj00r/Postprocessing_3D_printouts)
 
 
 <h2> 🤳 Contact me:</h2>
