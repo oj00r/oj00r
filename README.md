@@ -1,21 +1,22 @@
-<h1>Hi, I'm Igor! <br/><a href="https://github.com/joshmadakor1">Automotation Engineering Student</a>
+<h1>Hi, I'm Igor! <br/><a href="https://github.com/oj00r">Automation Engineering Student</a>
 
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Simple Apps</b>
-  - [Expenses Calculator with SQLite](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Expenses Calculator with SQLite](https://github.com/oj00r) (coming soon...)
  
 - <b>CAD</b>
-  - [Prostheis in Creo](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [3D Print Cleaner Station Cover in SW](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Leg Prostheis in Creo](https://github.com/oj00r)
+  - [3D Print Cleaner Station Cover in SW](https://github.com/oj00r)
 
+- <b>Tinkering<b>
+  - [Modding My 3D Printer](https://github.com/oj00r)
+  
 - <b>Bachelor Thesis</b>
-  - [POSTPROCESSING OF 3D TITATNIUM PRINTOUTS](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Postprocessing of 3D Titanium Printouts](https://github.com/oj00r)
 
 
-
-<h2> 🤳 Connect with me:</h2>
-
+<h2> 🤳 Contact me:</h2>
 
 [<img align="left" alt="IgorSamczewski | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="IgorSamczewski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
