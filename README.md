@@ -6,7 +6,7 @@
   - [Expenses Calculator with SQLite](https://github.com/oj00r) (coming soon...)
  
 - <b>CAD</b>
-  - [Leg Prostheis in Creo](https://github.com/oj00r)
+  - [Leg Prostheis in Creo](https://github.com/oj00r/Leg_Prostheis)
   - [3D Print Cleaner Station Cover in SW](https://github.com/oj00r)
 
 - <b>Tinkering<b>
